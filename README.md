@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**luizlee107/luizlee107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: luiz014@hotmail.com
