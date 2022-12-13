@@ -4,7 +4,7 @@
 - 📫 How to reach me: luiz014@hotmail.com
 
 - 🌱 I’m currently learning: Django
-- 💬 Ask me about": Python, SQL           
+- 💬 Ask me about : Python, SQL           
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> -->
 
