@@ -9,6 +9,6 @@
 
 
 
-<h4 align="center">Top langs ✏️:</h4>
+<h4 align="left">Top langs ✏️:</h4>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlee107&langs_count=10&theme=tokyonight&layout=compact" alt="luizlee107 :: Top Langs" /></p>
