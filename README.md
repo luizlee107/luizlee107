@@ -13,3 +13,23 @@
 <h4 align="left">Top langs ✏️:</h4>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlee107&langs_count=10&theme=tokyonight&layout=compact" alt="luizlee107 :: Top Langs" /></p>
+
+
+<hr>
+
+### My main knowledge: 
+
+<img align="center" alt="RoDalex-PYTHON" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+
+<img align="center" alt="Rodalex-Django" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+
+<img align="center" alt="Rodalex-SQLServer" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+
+<img align="center" alt="Rodalex-HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  
+<img align="center" alt="Rodalex-CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+
+
+
+   
+ <hr>
