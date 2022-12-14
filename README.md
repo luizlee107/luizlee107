@@ -15,7 +15,7 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlee107&langs_count=10&theme=tokyonight&layout=compact" alt="luizlee107 :: Top Langs" /></p>
 
 
-<hr>
+
 
 ### My main knowledge: 
 
@@ -29,7 +29,3 @@
   
 <img align="center" alt="Rodalex-CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 
-
-
-   
- <hr>
