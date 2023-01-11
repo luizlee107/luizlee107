@@ -2,8 +2,8 @@
 
 
 - 📫 How to reach me: luiz014@hotmail.com
-
-- 🌱 I’m currently learning: Django
+- 👨‍💻 I’m interested in became a back-end developer
+- 🌱 I’m currently learning: Django and API
    
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> -->
