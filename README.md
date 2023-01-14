@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: luiz014@hotmail.com
 - 👨‍💻 I’m interested in became a back-end developer
-- 🌱 I’m currently learning: Django and API
+- 🌱 I’m currently learning: JS and NODE.js
    
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> -->
