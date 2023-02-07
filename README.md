@@ -2,7 +2,7 @@
 
 
 - 📫 How to reach me: luiz014@hotmail.com
-- 👨‍💻 I’m interested in became a back-end developer
+- 👨‍💻 I’m interested in back-end development
 - 🌱 I’m currently learning: Java Script and Node.js
    
 
