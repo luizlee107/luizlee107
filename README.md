@@ -12,8 +12,8 @@
 <h4 align="left">Top langs ✏️:</h4>
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=luizlee107&show_icons=true&theme=vision-friendly-dark" alt=""/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlee107&layout=compact&theme=vision-friendly-dark" alt=""/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api?username=luizlee107&show_icons=true&theme=vision-friendly-dark" alt=""/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlee107&layout=compact&theme=vision-friendly-dark" alt=""/>
 </p>
 
 
@@ -28,4 +28,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)&nbsp;
 
