@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: luiz014@hotmail.com
 - 👨‍💻 I’m interested in back-end development
-- 🌱 I’m currently learning: Java Script and Node.js
+- 🌱 I’m currently learning: Java Script, Node.js and Docker
    
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> -->
