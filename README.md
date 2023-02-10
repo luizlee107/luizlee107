@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=luizlee107&label=Profile%20views&color=0e75b6&style=flat" alt="luizlee107" /> </p>
+
 
 
 - 📫 How to reach me: luiz014@hotmail.com
