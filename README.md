@@ -1,8 +1,6 @@
 ### Hi there 👋
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=luizlee107&label=Profile%20views&color=0e75b6&style=flat" alt="luizlee107" /> </p>
 
-
-
 - 📫 How to reach me: luiz014@hotmail.com
 - 👨‍💻 I’m interested in back-end development
 - 🌱 I’m currently learning: Java Script, Node.js and Docker
@@ -19,7 +17,7 @@
 </p>
 
 
-### My main knowledge: 
+### Skill and Tools: 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
