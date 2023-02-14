@@ -11,10 +11,10 @@
 
 <h4 align="left">Top langs ✏️:</h4>
 
-<p align="left">
-<img width="480em" src="https://github-readme-stats.vercel.app/api?username=luizlee107&show_icons=true&theme=vision-friendly-dark" alt=""/>
-<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlee107&layout=compact&theme=vision-friendly-dark" alt=""/>
-</p>
+ <div>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizlee107&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlee107&layout=compact&langs_count=6&theme=merko"/>
+</div>
 
 
 ### Skill and Tools: 
