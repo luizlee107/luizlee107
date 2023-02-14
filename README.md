@@ -14,7 +14,7 @@
 
 <div>
 
-<img width="520em" src="https://github-readme-stats.vercel.app/api?username=luizlee107&show_icons=true&theme=vision-friendly-dark" alt=""/>
+<img width="540em" src="https://github-readme-stats.vercel.app/api?username=luizlee107&show_icons=true&theme=vision-friendly-dark" alt=""/>
 <img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlee107&layout=compact&theme=vision-friendly-dark" alt=""/>
 </div>
 
